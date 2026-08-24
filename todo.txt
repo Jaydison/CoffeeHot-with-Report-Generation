@@ -1,0 +1,10 @@
+Manage payment
+- set payment inactive
+
+View transaction
+- view all transaction
+- view selected transaction
+
+Stock overview
+- view stock
+- add stock

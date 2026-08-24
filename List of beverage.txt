@@ -1,0 +1,25 @@
+Coffee:
+- Americano
+- Cappuccino
+- Latte
+- Mocha
+
+Non-Coffee:
+- Chocolate
+- Green Tea Latte
+- Matcha
+- Milk Tea
+
+Juice:
+- Orange Juice
+- Apple Juice
+- Mango Juice
+
+1. Manage Admins 
+2. Manage Beverages  
+3. Manage Categories 
+4. Manage Payments 
+5. View Transactions 
+6. Stock Overview
+7. Generate Reports
+8. Logout
